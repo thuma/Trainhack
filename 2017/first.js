@@ -1,0 +1,1 @@
+var hash=window.location.hash;hash&&window.scrollTo(0,0);
